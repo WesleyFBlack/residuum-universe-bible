@@ -1,0 +1,47 @@
+INTERNET ARCHIVE / ZENODO METADATA TEMPLATE
+
+Title:
+Residuum Universe Bible: Public Canon Reference, Version 1.0
+
+Creator:
+Wesley F. Black
+
+Publisher:
+Residuum Press
+
+Date:
+2026
+
+Language:
+English
+
+Description:
+Official public canon reference for the Residuum universe by Wesley F. Black, published by Residuum Press. This page records the public-facing canon for Bramble Field, False Door, Stacked, Reckon, Limited Edition, Locker 405, Mirador, FREBT, the FREBT Matrix, and major canon distinctions.
+
+Subject tags:
+Wesley F. Black
+Residuum Press
+Residuum Universe
+Bramble Field
+False Door
+Stacked
+Reckon
+Limited Edition
+Locker 405
+Mirador
+FREBT
+Speculative Fiction
+Literary Fiction
+Story Bible
+Public Canon
+
+Recommended files to upload:
+Residuum_Universe_Bible_Public_Canon_v1.md
+Residuum_Universe_Bible_Public_Canon_v1.pdf
+Residuum_Universe_Bible_Public_Canon_v1.docx
+FREBT_Matrix.md
+Works_List.md
+READ_ME_FIRST_Literary_Estate_Instructions.txt
+
+Do not upload:
+Pen_Name_Identity_Statement_PRIVATE_TEMPLATE.txt, unless you intentionally want your legal identity connected publicly.
