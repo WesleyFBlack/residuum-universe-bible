@@ -1,31 +1,55 @@
-# FREBT Matrix
+FREBT MATRIX
+Overview
+Version 1.0
+Wesley F. Black / Residuum Press
 
-Public canon reference for the FREBT architecture in the Residuum universe.
+FREBT is a framework for examining how human experience becomes visible to systems and how systems gain claims over what they recognize.
 
-| **Term** | **Public Meaning** | **Canon Function** |
-| --- | --- | --- |
-| FRET | Pressure, friction, fear, instability | The human stress signal systems detect but cannot fully interpret |
-| DEBT | Obligation, accounting, delay, institutional capture | The structure that binds people to systems |
-| FREBT | FRET × DEBT | The system's buried classification of human pressure under institutional obligation |
-| Residuum | What remains | The material systems fail to erase |
-| The Count | Later distortion of system logic | Measurement becoming doctrine |
-| Looking | Witness, recognition, attention | Mera's mode |
-| Watching | Surveillance, vigilance, control | The Watcher/General's mode |
+The matrix has two axes:
 
-## Public Canon Rules
+FRET
+The degree to which a human signal becomes legible.
 
-FREBT is always written as **FREBT**.
+DEBT
+The degree to which a structure gains a claim.
 
-Do not write it as **FRET-DEBT** in-world.
+These axes create four conditions:
 
-Do not define it inside the surviving Document.
+WITHDRAWAL
+Low FRET / Low DEBT
+Low visibility and low structural claim.
 
-Do not treat the Document as religious scripture.
+OVERFLOW
+High FRET / Low DEBT
+High visibility without stable structural possession.
 
-Do not make the Grandfather a prophet.
+CONVERSION
+High FRET / High DEBT
+A legible human signal that is also strongly held by a structure.
 
-Do not make the Count mystical at its origin.
+CAPTURE
+Low FRET / High DEBT
+A strong structural claim over a weak, obscured, or difficult-to-recover human signal.
 
-The system begins as machinery, procedure, classification, and fear.
+At the center is:
 
-The myth comes later.
+THE HINGE
+
+The threshold where a human condition becomes a system object.
+
+The FREBT Matrix is not a personality test, moral ranking, diagnosis, or fixed taxonomy. It is a public reading and analytical framework.
+
+It may be used to ask:
+
+What becomes visible?
+What remains illegible?
+Who gains a claim?
+What is preserved?
+What is reduced?
+What is lost in translation?
+
+Public canon reference only.
+The full working framework remains private.
+
+© 2026 Wesley F. Black
+Residuum Press
