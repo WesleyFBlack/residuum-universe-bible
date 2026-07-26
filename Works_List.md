@@ -2,12 +2,12 @@
 
 Author: Wesley F. Black  
 Imprint: Residuum Press  
-Public canon version: 1.0  
+Public canon version: 1.1  
 Last updated: July 2026
 
 ## Reading Order
 
-**Bramble Field → False Door → Stacked → Reckon → Limited Edition → Mirador**
+**Bramble Field → False Door → Stacked → Limited Edition → Mirador → MARM**
 
 **Locker 405** functions as the machine-side prelude to **Mirador**.
 
@@ -27,21 +27,23 @@ The system enters through biology, cognition, and permission. A novel about inhe
 
 ### 3. Stacked
 
-The building becomes the system body. A novel about access, surveillance, rooms, fobs, elevators, intimacy, and permission.
-
-### 4. Reckon
-
-Human counting becomes evidence for post-human counting. A census story about field labor, heat, false closure, compromised data, and confidence modeling.
+The building becomes the system body. A novel about access, surveillance, rooms, fobs, elevators, intimacy, and permission — carrying the census narrative as an internal thread: human counting becoming evidence for post-human counting, told through field labor, heat, false closure, compromised data, and confidence modeling.
 
 Key line: Closed is a workflow status. Resolved is a confidence question.
 
-### 5. Limited Edition
+### 4. Limited Edition
 
 The human era becomes collectible. A novel about scarcity, nostalgia, art, provenance, cultural memory, family care, and debt.
 
-### 6. Mirador
+### 5. Mirador
 
 The terminal human book. A witness novel about fear, stillness, movement, doctrine, the Count, and the difference between watching and looking.
+
+### 6. MARM
+
+**Published.**
+
+A novel about Mary, a girl raised inside an isolated facility by an automated mechanical caregiver, where care and containment are administered by the same system.
 
 ### Prelude: Locker 405
 

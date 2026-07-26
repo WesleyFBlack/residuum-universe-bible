@@ -1,7 +1,7 @@
 INTERNET ARCHIVE / ZENODO METADATA TEMPLATE
 
 Title:
-Residuum Universe Bible: Public Canon Reference, Version 1.0
+Residuum Universe Bible: Public Canon Reference, Version 1.1
 
 Creator:
 Wesley F. Black
@@ -16,7 +16,10 @@ Language:
 English
 
 Description:
-Official public canon reference for the Residuum universe by Wesley F. Black, published by Residuum Press. This page records the public-facing canon for Bramble Field, False Door, Stacked, Reckon, Limited Edition, Locker 405, Mirador, FREBT, the FREBT Matrix, and major canon distinctions.
+Official public canon reference for the Residuum universe by Wesley F. Black, published by Residuum Press. This version adds MARM as the published sixth and final core novel, confirms Reckon as an internal thread of Stacked rather than a standalone work, and records the corrected reading order: Bramble Field, False Door, Stacked, Limited Edition, Mirador, MARM.
+
+Version note:
+v1.1 — adds published MARM as the sixth core novel; confirms Reckon as an internal Stacked thread; corrects the public reading order.
 
 Subject tags:
 Wesley F. Black
@@ -25,10 +28,10 @@ Residuum Universe
 Bramble Field
 False Door
 Stacked
-Reckon
 Limited Edition
 Locker 405
 Mirador
+MARM
 FREBT
 Speculative Fiction
 Literary Fiction
